@@ -1,7 +1,7 @@
 {
   "AdminParty": {
     "Active": false,
-    "Message": "No party right now",
+    "Message": "No party right now! Sorry!",
     "Music": "",
     "version": 0
   }
